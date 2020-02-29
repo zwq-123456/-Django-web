@@ -1,0 +1,10 @@
+input{
+    display: inline!important;
+    width: 50%!important;
+    margin-bottom: 15px;
+}
+select{
+    display: inline!important;
+    width: 50%!important;
+    margin-left: -3px;
+}

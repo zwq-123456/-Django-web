@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+#base-area{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+h1{
+    margin: 5%;
+}
+ .side-meum{
+    left: 0;
+    top: 0px;
+    width: 12%;
+    height: 100%;
+    position: absolute;
+    list-style: none;
+    padding-left: 0;
+}
+.side-meum li{
+    top: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 32px;
+    cursor: pointer;
+    border: 1px solid #cccccc;
+}
+.base-content{
+    width: 88%;
+    height: 100%;
+    right: 0;
+    top: 0;
+    position: absolute;
+    border-left:1px solid #cccccc;
+
+}
+.navbar{
+    margin-bottom: 0;
+}
